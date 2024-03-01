@@ -1,0 +1,23 @@
+av
+einops
+flashy>=0.0.1
+hydra-core>=1.1
+hydra_colorlog
+julius
+num2words
+numpy
+sentencepiece
+spacy>=3.6.1
+torch==2.1.0+rocm5.6
+torchaudio>=2.1.0+rocm5.6
+huggingface_hub
+tqdm
+transformers>=4.31.0  # need Encodec there.
+xformers<0.0.23
+demucs
+librosa
+gradio
+torchmetrics
+encodec
+protobuf
+pytorch-triton-rocm>=2.1.0
